@@ -1,0 +1,10 @@
+# youTubE-oBHOd
+
+youTubE-oBHOd снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+
+youTubE-oBHOd снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/boulderbakerunveil/youTubE-oBHOd/releases/latest
+Код: https://github.com/boulderbakerunveil/youTubE-oBHOd
+Основа: https://github.com/bol-van/zapret
+Страница: https://boulderbakerunveil.github.io/youTubE-oBHOd/
