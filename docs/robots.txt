@@ -7,6 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Host: boulderbakerunveil.github.io
-
-Sitemap: https://boulderbakerunveil.github.io/youTubE-oBHOd/sitemap.xml
+Sitemap: https://github.com/boulderbakerunveil/youTubE-oBHOd
